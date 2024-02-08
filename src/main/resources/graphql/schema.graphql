@@ -1,8 +1,0 @@
-type Query {
-    authors: [Auhtor]
-}
-
-type Auhtor {
-    id: ID!
-    name: String!
-}
